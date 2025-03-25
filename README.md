@@ -1,145 +1,165 @@
-# The APRS Documentation Project #
+# 说明 #
 
-It's hard to find good information on APRS.  A web search produces mostly outdated misinformation and little of value.  This is the beginning of a collection of the essential documentation.
+本项目为[wb2osz-aprsspec](https://github.com/wb2osz/aprsspec/)的中文本地化。
+
+文档均为本人个人翻译，本意为帮助母语为中文的ham更好理解相关规范。翻译过程难免疏漏，如有出错敬请指正。
+
+73 DE BG2FFJ 2025.03.25
 
 
-## What is APRS? ##
 
-In the words of its creator:
+# APRS 文档项目 #
+
+在网络上很难找到有关 APRS 的有用信息。网上搜索到的大多是过时的错误信息，没有多大价值。本项目是收集基本文档的开始。
 
 
-> “**APRS is not a vehicle tracking system**. It is a two-way tactical real-time digital communications system between all assets in a network sharing information about everything going on in the local area. On ham radio, this means if something is happening now, or there is information that could be valuable to you, then it should show up on your APRS radio in your mobile.” 
+
+## APRS 是什么？ ##
+
+用它的创造者的话来说：
+
+
+> “**APRS不是车辆跟踪系统**。它是一种双向战术实时数字通信系统，网络中的所有设备共享本地发生的所有事件的信息。对于业余无线电而言，这意味着如果现在正在发生某事，或者存在对您有价值的信息，那么这些信息应该会显示在您的移动APRS终端上。” 
 
  -WB4APR (SK)
 
-Read more:  [What-is-APRS.pdf](https://github.com/wb2osz/aprsspec/raw/main/What-is-APRS.pdf)
+阅读更多:  [What-is-APRS-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/What-is-APRS-Chinese.pdf)
 
 
-## The Best APRS Presentations ##
 
-Club meetings and ham conventions are always looking for speakers.  There was nothing about APRS during the 2024 Dayton forums.
+## 最佳的可以用来介绍 APRS 的 PPT ##
 
-Suppose you wanted to give an APRS presentation at a club meeting or ham convention.  But...
-It's a big job. You are not sure where to start and would like to use / adapt something already done rather than starting from nothing.
+无线电俱乐部的会议和业余无线电大会一直在寻找能够介绍APRS的演讲者。并且在2024年代顿论坛期间也没有关于 APRS 的内容。
 
-Where can you find suitable presentations?  I’ve tried searching and could not find much that was worthwhile.
+如果您想在俱乐部会议或业余无线电通讯大会上演示 APRS 。但...
 
-I’m throwing this out as a challenge to the APRS community.  Please help to make a list of the best presentations that others could use.  
+这是一项非常艰巨的工作。您可能会不确定从哪里开始，并且可能希望在前人的基础：上进行修改，而不是从零开始。
 
-[The-Best-APRS-Presentations.pdf](https://github.com/wb2osz/aprsspec/raw/main/The-Best-APRS-Presentations.pdf)
+您在哪里可以找到合适的PPT？我尝试寻找过，但找不到太多有价值的东西。
 
-## How to Get Started in APRS ##
+我将此作为对 APRS 社区的挑战。请帮助列出其他人可以使用的最佳演示文稿。
 
-How can a newcomer get started in APRS?  
-
-A web search produces mostly:
-
-- Very specialized such as the configuration of a specific radio.
-- Outdated information.  (e.g.  you must buy a legacy 1980s style TNC or references to software apps abandoned decades ago)
-- Only talks about trackers and aprs.fi.
-- Leads you to believe that buying a very expensive radio is only way to get started. 
-- Overly technical information such as the protocol specification. 
-- Very brief description with a link to [aprs.org](http://www.aprs.org/) which would scare a beginner away.
+[The-Best-APRS-Presentations-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/The-Best-APRS-Presentations-Chinese.pdf)
 
 
-If you search YouTube, the top of the list is “APRS The Most Worthless Mode in Ham Radio”   with APRS = a pile of poo in the picture.  That’s not a good first impression.
 
-There is some very good material out there, but how can the newcomer find it among all the clutter?
+## 如何开始使用 APRS ？ ##
+
+新手如何开始使用 APRS ？ 
+
+在网络上搜索主要会有以下结果：
+
+- 非常专业的内容，例如特定无线电台的配置教程。
+- 过时的信息。（例如，您必须购买 20 世纪 80 年代风格的传统 TNC 或几十年前废弃的软件应用程序的参考资料）
+- 仅谈论 Tracker 和 aprs.fi。 
+- 让您相信购买非常昂贵的电台是开始使用电台的唯一方法。
+- 过于技术性的信息，例如协议规范。
+- 非常简短的描述，并带有 [aprs.org](http://www.aprs.org/) 的链接，这可能会吓跑初学者。
+
+
+如果你在 YouTube 上搜索，结果最上面是“APRS 是业余无线电中最没用的模式”，APRS = 图片中的一堆史。这给人的第一印象可不太好。
+
+当然也有一些非常好的材料，但新手怎样才能在这么多杂乱的信息当中中找到它呢？
 
 [How-to-Get-Started-in-APRS.pdf](https://github.com/wb2osz/aprsspec/raw/main/How-to-Get-Started-in-APRS.pdf)
 
-This is a crowd-sourced list of the best resources for a beginner.  I need YOUR help to find the best resources.
+这是一份针对初学者的最佳资源众包列表。我需要您的帮助来找到最佳资源。
 
 
 
+## *** 推荐所有 APRS 用户阅读 *** ##
 
-## *** Recommended Reading for all APRS Users *** ##
 
-
-What does this mean?
+这是什么意思？
 
 
     N83MZ>T2TQ5U,WA1PLE-4*:`c.l+@&'/'"G:} KJ6TMS|!:&0'p|!w#f!|3
 
 
-What is wrong with this packet?
+这个数据包有什么问题？
 
 
     WA2GUG-15>TQ0V4V,TCPIP,WA2GUG-15,K1EQX-7,N3LLO-3,WIDE2*,RFONLY,NOGATE:}KB1CRN-14>TQ0V4V,WIDE1-1,WIDE2-1,WB2ZII-13,TCPIP,WA2GUG-15*:`e4Tp,Pu/`"4/}Keep on truckin`_1<0x20>
 
-You could try to digest the APRS Protocol Spec but that would probably give you an upset stomach.  And a headache.  A more gentle introduction can be found at:  [Understanding-APRS-Packets.pdf](https://github.com/wb2osz/aprsspec/raw/main/Understanding-APRS-Packets.pdf)
+您可以尝试理解 APRS 协议规范，但这可能会让您胃部不适，并且头痛。您可以在以下网址找到更温和的介绍：[Understanding-APRS-Packets.pdf](https://github.com/wb2osz/aprsspec/raw/main/Understanding-APRS-Packets.pdf)
 
-Be sure to read the part about the mistakes that people make.  Read this carefully if you don't want to end up as an example of what not to do.
-
-## APRS Thursday ##
-
-APRS Thursday is a net managed by Michael KC8OWL, held every Thursday with the aim of growing message activity on APRS across the world.  Many manufacturers are now including APRS functionality as a standard feature, making APRS more accessible, and hopefully more popular than ever.
-
-The APRS Thursday net is held each week on Thursday between the hours of 00:00:00UTC to 23:59:59UTC.
-Based on your browers locale, you can check into the net each week anytime between and in your local timezone. 
-
-For more information see:  [https://aprsph.net/aprsthursday/](https://aprsph.net/aprsthursday/)   or    [https://aprs.to/events/aprs_thursday/about/](https://aprs.to/events/aprs_thursday/about/) 
-
-
-## Contact the International Space Station (ISS) with APRS ##
-
-Did you know that the International Space Station (ISS) and some amateur satellites carry APRS digipeaters?  You don’t need fancy equipment to use the ISS digipeater.  I saw a video where someone was successful with an HT and a quarter wave whip antenna.  Of course a better antenna will increase your chances of success.
-
-Details:  [APRS-Digpeaters-in-Space.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digpeaters-in-Space.pdf)
+一定要阅读关于人们所犯错误的部分。如果你不想成为不该做的事情的典型例子，请仔细阅读。
 
 
 
-## APRS Protocol Specification 1.2 ##
+## APRS 星期四 ##
+## ~~ APRS 疯狂星期四 ~~ ##
 
-The APRS Protocol Reference 1.0.1 was developed by the APRS Working Group and published in 2000.   A**PRS101.PDF is obsolete** and should not be used for implementation.
+APRS 星期四是 Michael KC8OWL 管理的网络，每周四举行，旨在增加全球 APRS 上的消息活动。许多设备制造商现在将 APRS 功能作为无线电设备的标准功能，使 APRS 更易于访问，并有望比以往更受欢迎。
 
-In 2004, the Working Group approved a list of corrections, clarifications, and new features summarized here:  [http://www.aprs.org/aprs11.html](http://www.aprs.org/aprs11.html). Unfortunately they were never merged back into the original document.
+APRS 周四网络于每周周四 00:00:00UTC 至 23:59:59UTC 之间举行。(每周四 8:00:00BJT - 每周五7:59:59BJT)
+根据您的区域，您可以在本地时区的任何时间，每周检查网络。
+
+想要获取更多信息可以看:  [https://aprsph.net/aprsthursday/](https://aprsph.net/aprsthursday/)   或者    [https://aprs.to/events/aprs_thursday/about/](https://aprs.to/events/aprs_thursday/about/) 
+
+
+
+## 使用 APRS 与 ISS(国际空间站) 进行通联 ##
+
+您是否知道国际空间站 (ISS) 和一些业余卫星都携带 APRS 数字中继器？您不需要花哨的设备即可使用 ISS 数字中继器。我看过一个视频，有人使用 HT APP 和四分之一波长鞭状天线成功了。当然，有更好的天线会增加您成功的机会。
+
+详细信息:  [APRS-Digpeaters-in-Space.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digpeaters-in-Space.pdf)
+
+
+
+## APRS 协议规范 1.2 ##
+
+APRS 协议参考 1.0.1 由 APRS 工作组开发并于 2000 年发布。**APRS101.PDF 已过时**，不应用于实施。
+
+2004 年，工作组批准了一份修正、澄清和新功能列表，总结如下：[http://www.aprs.org/aprs11.html](http://www.aprs.org/aprs11.html)。遗憾的是，它们从未合并回原始文档。
  
-Since that time all we have is a bunch of "proposals" from Bob WB4APR (SK) found at [http://www.aprs.org/aprs12.html](http://www.aprs.org/aprs12.html).   Some of the features have been widely implemented, others are just ideas for discussion that never went anywhere.  There is no dividing line.  Some of the links point to places that no longer exist.
+自那时起，我们所能参考的只有 Bob WB4APR（已故）提出的一系列“提案”，可在此查看：[http://www.aprs.org/aprs12.html](http://www.aprs.org/aprs12.html)
+其中一些功能已被广泛应用，而另一些仅仅是讨论中的想法，最终未被采用。这些内容之间没有明确的界限，有些链接甚至已经失效。
 
-APRS is still alive and well a quarter of a century later, with many new products, computer applications, and creative uses.  Implementation is more difficult and error prone with the information scattered around and incomplete.  Some people, trying to implement APRS, might not even know there were any updates since the original.  
+尽管如此，APRS 依然活跃，在过去 25 年里诞生了许多新产品、计算机应用以及创新用途。然而，由于相关信息分散且不完整，实施变得更加困难且容易出错。有些人在尝试实现 APRS 时，甚至可能不知道自原始文档发布以来已有更新。
 
-This is an independent compilation of the original specification and all of the relevant updates since 2000.  This is not endorsed by the APRS Working Group.  The position of the APRS Working group is that the “official” version is still the original document and Bob’s version of the errata on his site. 
+本文件是对 2000 年以来所有相关更新的独立汇编，并未获得 APRS 工作组的认可。目前，APRS 工作组的立场仍然是“官方”版本依然是原始文档以及 Bob 在其网站上发布的勘误版本。
 
-Feedback is welcome.
+欢迎提供反馈意见。
 
-Naming convention:
+命名约定：
 
-[APRS12b.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12b.pdf) is DRAFT b of version 1.2.
+[APRS12b.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12b.pdf) 是 1.2 版本的草案 b。
 
-[APRS12c.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12c.pdf) is DRAFT c of version 1.2.  etc.
+[APRS12c.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12c.pdf) 是 1.2 版本的草案 c，依此类推。
 
-A release version will drop the letter at the end.  
+正式发布的版本将去掉末尾的字母。
 
 
-## AX.25 Protocol Specification 2.2, fourth edition ##
 
-APRS is generally transmitted as AX.25 Unnumbered Information (UI) frames. 
+## AX.25 协议规范 2.2，第四版 ##
+
+APRS 通常以 AX.25 无编号信息 (UI) 帧 进行传输。
 
 [https://www.ax25.net/AX25.2.2-Jul%2098-2.pdf](https://www.ax25.net/AX25.2.2-Jul%2098-2.pdf)
 
-LoRa APRS uses plain text with the TNC-2 monitoring format.
+LoRa APRS 使用 TNC-2 监视格式 的纯文本传输。
 
 
 
-## APRS Digipeater Algorithm ##
+## APRS 中继算法 ##
 
-The APRS Working Group never produced an APRS digipeater specification.  Probably because existing 1980s style packet radio TNCs were being re-purposed at the time.    Someone wanting to implement a digipeater  had to piece together clues from various places and imitate poorly documented legacy 20th Century TNCs developed long before the advent of the [WIDEn-N paradigm](http://www.aprs.org/fix14439.html).  As a result, we see inconsistent, and sometimes very wrong implementations.
+APRS 工作组从未制定过 APRS 中继（digipeater）规范。可能的原因是，当时 1980 年代风格的分组无线电 TNC 正在被重新利用。想要实现中继功能的人只能从各种零散的资料中拼凑线索，并模仿 20 世纪早期 TNC 的行为——这些 TNC 在 [WIDEn-N paradigm](http://www.aprs.org/fix14439.html) 机制 诞生之前就已开发，文档记录也十分欠缺。因此，不同的实现方式存在不一致，甚至有些错误百出。
 
-Here is my attempt to clear up the confusion.  [APRS-Digipeater-Algorithm.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digipeater-Algorithm.pdf)
-
-
-## APRS IGate Description ##
-
-Information about developing an APRS Internet Gateway ("IGate") exists but it is a little sparse.  For now, see [Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Successful-APRS-IGate-Operation.pdf)  for supplemental information.  Just ignore the parts mentioning direwolf.  Eventually, I should have a more generic version not revolving around one implementation.
+这里是我尝试澄清这些混乱的内容：[APRS-Digipeater-Algorithm.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digipeater-Algorithm.pdf)
 
 
 
+## APRS IGate 说明 ##
 
-## Feedback ##
+关于 APRS 互联网网关（IGate）的开发信息较少。目前，可以参考以下补充资料：[Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Successful-APRS-IGate-Operation.pdf)。该文档包含相关信息，但请忽略其中涉及 Direwolf 的部分。未来，我计划提供一个更加通用的版本，而不是基于某个特定实现。
 
-The UNOFFICIAL Protocol Specification compilation is a DRAFT version with known issues.  Your feedback is welcome.  Errors and suggestions for improvement should be reported here: [https://github.com/wb2osz/aprsspec/issues](https://github.com/wb2osz/aprsspec/issues)   for tracking.
 
-General discussions about the APRS Protocol should go to the discussion forum  [https://groups.io/g/APRS](https://groups.io/g/APRS)
 
-73, John WB2OSZ
+## 反馈 ##
+
+这份 非官方 APRS 协议规范汇编仍是 草案，已知存在问题。欢迎反馈错误或提出改进建议，请在此提交：[https://github.com/wb2osz/aprsspec/issues](https://github.com/wb2osz/aprsspec/issues)，以便跟踪处理。
+
+关于 APRS 协议的一般讨论，请访问论坛：[https://groups.io/g/APRS](https://groups.io/g/APRS)
+
+73，John WB2OSZ
