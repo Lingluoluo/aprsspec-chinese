@@ -18,7 +18,7 @@
 
  -WB4APR (SK)
 
-阅读更多:  [What-is-APRS-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/什么是APRS-What-is-APRS.pdf)
+阅读更多:  [什么是APRS-What-is-APRS.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/什么是APRS-What-is-APRS.pdf)
 
 ## 最佳的可以用来介绍 APRS 的 PPT ##
 
@@ -32,7 +32,7 @@
 
 我将此作为对 APRS 社区的挑战。请帮助列出其他人可以使用的最佳演示文稿。
 
-[The-Best-APRS-Presentations-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/用来介绍APRS最好的PPT-The-Best-APRS-Presentations.pdf)
+[用来介绍APRS最好的PPT-The-Best-APRS-Presentations.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/用来介绍APRS最好的PPT-The-Best-APRS-Presentations.pdf)
 
 ## 如何开始使用 APRS ？ ##
 
@@ -51,7 +51,7 @@
 
 当然也有一些非常好的材料，但新手怎样才能在这么多杂乱的信息当中中找到它呢？
 
-[How-to-Get-Started-in-APRS.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/新手如何开始入门APRS-How-to-Get-Started-in-APRS.pdf)
+[新手如何开始入门APRS-How-to-Get-Started-in-APRS.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/新手如何开始入门APRS-How-to-Get-Started-in-APRS.pdf)
 
 这是一份针对初学者的最佳资源众包列表。我需要您的帮助来找到最佳资源。
 
@@ -65,7 +65,7 @@
 
     WA2GUG-15>TQ0V4V,TCPIP,WA2GUG-15,K1EQX-7,N3LLO-3,WIDE2*,RFONLY,NOGATE:}KB1CRN-14>TQ0V4V,WIDE1-1,WIDE2-1,WB2ZII-13,TCPIP,WA2GUG-15*:`e4Tp,Pu/`"4/}Keep on truckin`_1<0x20>
 
-您可以尝试理解 APRS 协议规范，但这可能会让您胃部不适，并且头痛。您可以在以下网址找到更温和的介绍：[Understanding-APRS-Packets.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/理解APRS数据包-Understanding-APRS-Packets.pdf)
+您可以尝试理解 APRS 协议规范，但这可能会让您胃部不适，并且头痛。您可以在以下网址找到更温和的介绍：[理解APRS数据包-Understanding-APRS-Packets.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/理解APRS数据包-Understanding-APRS-Packets.pdf)
 
 一定要阅读关于人们所犯错误的部分。如果你不想成为不该做的事情的典型例子，请仔细阅读。
 
@@ -84,7 +84,7 @@ APRS 周四网络于每周周四 00:00:00UTC 至 23:59:59UTC 之间举行。(每
 
 您是否知道国际空间站 (ISS) 和一些业余卫星都携带 APRS 数字中继器？您不需要花哨的设备即可使用 ISS 数字中继器。我看过一个视频，有人使用 HT APP 和四分之一波长鞭状天线成功了。当然，有更好的天线会增加您成功的机会。
 
-详细信息:  [APRS-Digpeaters-in-Space.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS-Digpeaters-in-Space.pdf)
+详细信息:  [太空中的APRS数字中继器-APRS-Digpeaters-in-Space.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/太空中的APRS数字中继器-APRS-Digpeaters-in-Space.pdf)
 
 ## APRS 协议规范 1.2 ##
 
@@ -119,13 +119,13 @@ LoRa APRS 使用 TNC-2 监视格式 的纯文本传输。
 
 ## APRS 中继算法 ##
 
-APRS 工作组从未制定过 APRS 中继（digipeater）规范。可能的原因是，当时 1980 年代风格的分组无线电 TNC 正在被重新利用。想要实现中继功能的人只能从各种零散的资料中拼凑线索，并模仿 20 世纪早期 TNC 的行为——这些 TNC 在 [WIDEn-N paradigm](http://www.aprs.org/fix14439.html) 机制 诞生之前就已开发，文档记录也十分欠缺。因此，不同的实现方式存在不一致，甚至有些错误百出。
+APRS 工作组从未制定过 APRS 数字中继（digipeater）规范。可能的原因是，当时 1980 年代风格的分组无线电 TNC 正在被重新利用。想要实现中继功能的人只能从各种零散的资料中拼凑线索，并模仿 20 世纪早期 TNC 的行为——这些 TNC 在 [WIDEn-N paradigm](http://www.aprs.org/fix14439.html) 机制 诞生之前就已开发，文档记录也十分欠缺。因此，不同的实现方式存在不一致，甚至有些错误百出。
 
-这里是我尝试澄清这些混乱的内容：[APRS-Digipeater-Algorithm.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS-Digipeater-Algorithm.pdf)
+这里是我尝试澄清这些混乱的内容：[APRS数字中继算法-APRS-Digipeater-Algorithm.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS数字中继算法-APRS-Digipeater-Algorithm.pdf)
 
 ## APRS IGate 说明 ##
 
-关于 APRS 互联网网关（IGate）的开发信息较少。目前，可以参考以下补充资料：[Successful-APRS-IGate-Operation.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/Successful-APRS-IGate-Operation.pdf)。该文档包含相关信息，但请忽略其中涉及 Direwolf 的部分。未来，我计划提供一个更加通用的版本，而不是基于某个特定实现。
+关于 APRS 互联网网关（IGate）的开发信息较少。目前，可以参考以下补充资料：[成功的 APRS IGate操作-Successful-APRS-IGate-Operation.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/成功的-APRS-IGate操作-Successful-APRS-IGate-Operation.pdf)。该文档包含相关信息，但请忽略其中涉及 Direwolf 的部分。未来，我计划提供一个更加通用的版本，而不是基于某个特定实现。
 
 ## 反馈 ##
 
