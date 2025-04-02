@@ -6,26 +6,19 @@
 
 73 DE BG2FFJ 2025.03.25
 
-
-
-# APRS 文档项目 #
+## APRS 文档项目 ##
 
 在网络上很难找到有关 APRS 的有用信息。网上搜索到的大多是过时的错误信息，没有多大价值。本项目是收集基本文档的开始。
-
-
 
 ## APRS 是什么？ ##
 
 用它的创造者的话来说：
 
-
-> “**APRS不是车辆跟踪系统**。它是一种双向战术实时数字通信系统，网络中的所有设备共享本地发生的所有事件的信息。对于业余无线电而言，这意味着如果现在正在发生某事，或者存在对您有价值的信息，那么这些信息应该会显示在您的移动APRS终端上。” 
+> “**APRS不是车辆跟踪系统**。它是一种双向战术实时数字通信系统，网络中的所有设备共享本地发生的所有事件的信息。对于业余无线电而言，这意味着如果现在正在发生某事，或者存在对您有价值的信息，那么这些信息应该会显示在您的移动APRS终端上。”
 
  -WB4APR (SK)
 
-阅读更多:  [What-is-APRS-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/What-is-APRS-Chinese.pdf)
-
-
+阅读更多:  [What-is-APRS-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/什么是APRS-What-is-APRS.pdf)
 
 ## 最佳的可以用来介绍 APRS 的 PPT ##
 
@@ -39,80 +32,66 @@
 
 我将此作为对 APRS 社区的挑战。请帮助列出其他人可以使用的最佳演示文稿。
 
-[The-Best-APRS-Presentations-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/The-Best-APRS-Presentations-Chinese.pdf)
-
-
+[The-Best-APRS-Presentations-Chinese.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/用来介绍APRS最好的PPT-The-Best-APRS-Presentations.pdf)
 
 ## 如何开始使用 APRS ？ ##
 
-新手如何开始使用 APRS ？ 
+新手如何开始使用 APRS ？
 
 在网络上搜索主要会有以下结果：
 
 - 非常专业的内容，例如特定无线电台的配置教程。
 - 过时的信息。（例如，您必须购买 20 世纪 80 年代风格的传统 TNC 或几十年前废弃的软件应用程序的参考资料）
-- 仅谈论 Tracker 和 aprs.fi。 
+- 仅谈论 Tracker 和 aprs.fi。
 - 让您相信购买非常昂贵的电台是开始使用电台的唯一方法。
 - 过于技术性的信息，例如协议规范。
 - 非常简短的描述，并带有 [aprs.org](http://www.aprs.org/) 的链接，这可能会吓跑初学者。
-
 
 如果你在 YouTube 上搜索，结果最上面是“APRS 是业余无线电中最没用的模式”，APRS = 图片中的一堆史。这给人的第一印象可不太好。
 
 当然也有一些非常好的材料，但新手怎样才能在这么多杂乱的信息当中中找到它呢？
 
-[How-to-Get-Started-in-APRS.pdf](https://github.com/wb2osz/aprsspec/raw/main/How-to-Get-Started-in-APRS.pdf)
+[How-to-Get-Started-in-APRS.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/新手如何开始入门APRS-How-to-Get-Started-in-APRS.pdf)
 
 这是一份针对初学者的最佳资源众包列表。我需要您的帮助来找到最佳资源。
 
-
-
-## *** 推荐所有 APRS 用户阅读 *** ##
-
+## ***推荐所有 APRS 用户阅读*** ##
 
 这是什么意思？
 
-
     N83MZ>T2TQ5U,WA1PLE-4*:`c.l+@&'/'"G:} KJ6TMS|!:&0'p|!w#f!|3
-
 
 这个数据包有什么问题？
 
-
     WA2GUG-15>TQ0V4V,TCPIP,WA2GUG-15,K1EQX-7,N3LLO-3,WIDE2*,RFONLY,NOGATE:}KB1CRN-14>TQ0V4V,WIDE1-1,WIDE2-1,WB2ZII-13,TCPIP,WA2GUG-15*:`e4Tp,Pu/`"4/}Keep on truckin`_1<0x20>
 
-您可以尝试理解 APRS 协议规范，但这可能会让您胃部不适，并且头痛。您可以在以下网址找到更温和的介绍：[Understanding-APRS-Packets.pdf](https://github.com/wb2osz/aprsspec/raw/main/Understanding-APRS-Packets.pdf)
+您可以尝试理解 APRS 协议规范，但这可能会让您胃部不适，并且头痛。您可以在以下网址找到更温和的介绍：[Understanding-APRS-Packets.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/理解APRS数据包-Understanding-APRS-Packets.pdf)
 
 一定要阅读关于人们所犯错误的部分。如果你不想成为不该做的事情的典型例子，请仔细阅读。
 
-
-
 ## APRS 星期四 ##
-## ~~ APRS 疯狂星期四 ~~ ##
+
+~~ APRS 疯狂星期四 ~~
 
 APRS 星期四是 Michael KC8OWL 管理的网络，每周四举行，旨在增加全球 APRS 上的消息活动。许多设备制造商现在将 APRS 功能作为无线电设备的标准功能，使 APRS 更易于访问，并有望比以往更受欢迎。
 
 APRS 周四网络于每周周四 00:00:00UTC 至 23:59:59UTC 之间举行。(每周四 8:00:00BJT - 每周五7:59:59BJT)
 根据您的区域，您可以在本地时区的任何时间，每周检查网络。
 
-想要获取更多信息可以看:  [https://aprsph.net/aprsthursday/](https://aprsph.net/aprsthursday/)   或者    [https://aprs.to/events/aprs_thursday/about/](https://aprs.to/events/aprs_thursday/about/) 
-
-
+想要获取更多信息可以看:  [https://aprsph.net/aprsthursday/](https://aprsph.net/aprsthursday/)   或者    [https://aprs.to/events/aprs_thursday/about/](https://aprs.to/events/aprs_thursday/about/)
 
 ## 使用 APRS 与 ISS(国际空间站) 进行通联 ##
 
 您是否知道国际空间站 (ISS) 和一些业余卫星都携带 APRS 数字中继器？您不需要花哨的设备即可使用 ISS 数字中继器。我看过一个视频，有人使用 HT APP 和四分之一波长鞭状天线成功了。当然，有更好的天线会增加您成功的机会。
 
-详细信息:  [APRS-Digpeaters-in-Space.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digpeaters-in-Space.pdf)
-
-
+详细信息:  [APRS-Digpeaters-in-Space.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS-Digpeaters-in-Space.pdf)
 
 ## APRS 协议规范 1.2 ##
 
 APRS 协议参考 1.0.1 由 APRS 工作组开发并于 2000 年发布。**APRS101.PDF 已过时**，不应用于实施。
 
 2004 年，工作组批准了一份修正、澄清和新功能列表，总结如下：[http://www.aprs.org/aprs11.html](http://www.aprs.org/aprs11.html)。遗憾的是，它们从未合并回原始文档。
- 
+
 自那时起，我们所能参考的只有 Bob WB4APR（已故）提出的一系列“提案”，可在此查看：[http://www.aprs.org/aprs12.html](http://www.aprs.org/aprs12.html)
 其中一些功能已被广泛应用，而另一些仅仅是讨论中的想法，最终未被采用。这些内容之间没有明确的界限，有些链接甚至已经失效。
 
@@ -124,13 +103,11 @@ APRS 协议参考 1.0.1 由 APRS 工作组开发并于 2000 年发布。**APRS10
 
 命名约定：
 
-[APRS12b.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12b.pdf) 是 1.2 版本的草案 b。
+[APRS12b.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS12b.pdf) 是 1.2 版本的草案 b。
 
-[APRS12c.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS12c.pdf) 是 1.2 版本的草案 c，依此类推。
+[APRS12c.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS12c.pdf) 是 1.2 版本的草案 c，依此类推。
 
 正式发布的版本将去掉末尾的字母。
-
-
 
 ## AX.25 协议规范 2.2，第四版 ##
 
@@ -140,21 +117,15 @@ APRS 通常以 AX.25 无编号信息 (UI) 帧 进行传输。
 
 LoRa APRS 使用 TNC-2 监视格式 的纯文本传输。
 
-
-
 ## APRS 中继算法 ##
 
 APRS 工作组从未制定过 APRS 中继（digipeater）规范。可能的原因是，当时 1980 年代风格的分组无线电 TNC 正在被重新利用。想要实现中继功能的人只能从各种零散的资料中拼凑线索，并模仿 20 世纪早期 TNC 的行为——这些 TNC 在 [WIDEn-N paradigm](http://www.aprs.org/fix14439.html) 机制 诞生之前就已开发，文档记录也十分欠缺。因此，不同的实现方式存在不一致，甚至有些错误百出。
 
-这里是我尝试澄清这些混乱的内容：[APRS-Digipeater-Algorithm.pdf](https://github.com/wb2osz/aprsspec/raw/main/APRS-Digipeater-Algorithm.pdf)
-
-
+这里是我尝试澄清这些混乱的内容：[APRS-Digipeater-Algorithm.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/APRS-Digipeater-Algorithm.pdf)
 
 ## APRS IGate 说明 ##
 
-关于 APRS 互联网网关（IGate）的开发信息较少。目前，可以参考以下补充资料：[Successful-APRS-IGate-Operation.pdf](https://github.com/wb2osz/direwolf-doc/raw/main/Successful-APRS-IGate-Operation.pdf)。该文档包含相关信息，但请忽略其中涉及 Direwolf 的部分。未来，我计划提供一个更加通用的版本，而不是基于某个特定实现。
-
-
+关于 APRS 互联网网关（IGate）的开发信息较少。目前，可以参考以下补充资料：[Successful-APRS-IGate-Operation.pdf](https://github.com/lingluoluo/aprsspec-chinese/raw/main/Successful-APRS-IGate-Operation.pdf)。该文档包含相关信息，但请忽略其中涉及 Direwolf 的部分。未来，我计划提供一个更加通用的版本，而不是基于某个特定实现。
 
 ## 反馈 ##
 
